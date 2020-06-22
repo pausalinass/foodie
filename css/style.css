@@ -1,0 +1,20 @@
+body{
+  background-color: #f7fbe1
+}
+
+h1 {
+  color: #438a5e;
+  font-size: 25px;
+  font-family: avenir;
+}
+
+img{
+  background-color: #436f8a
+
+}
+img:hover {
+  background-color: yellow
+}
+
+.avocado
+{ border-radius: 100%}
